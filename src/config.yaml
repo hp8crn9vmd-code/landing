@@ -1,10 +1,7 @@
 site:
   name: logic.exe
   site: 'https://hp8crn9vmd-code.github.io/landing'
-  name: logic.exe
-site:
-  name: logic.exe
-  site: 'https://hp8crn9vmd-code.github.io/landing'
+
 base: '/landing/'
 trailingSlash: false
 
