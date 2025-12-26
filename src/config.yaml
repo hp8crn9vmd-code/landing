@@ -25,9 +25,7 @@ metadata:
     type: website
   twitter:
     handle: '@logicexe'
-site:
-  name: logic.exe
-  site: 'https://hp8crn9vmd-code.github.io/landing'
+    site: '@logicexe'
     cardType: summary_large_image
 
 i18n:
@@ -37,10 +35,3 @@ i18n:
 apps:
   blog:
     enabled: false
-analytics:
-  vendors:
-    googleAnalytics:
-      id: null # or "G-XXXXXXXXXX"
-
-ui:
-  theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
