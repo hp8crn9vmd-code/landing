@@ -1,0 +1,49 @@
+site:
+  name: logic.exe
+  site: 'https://hp8crn9vmd-code.github.io/landing'
+  name: logic.exe
+site:
+  name: logic.exe
+  site: 'https://hp8crn9vmd-code.github.io/landing'
+base: '/landing/'
+trailingSlash: false
+
+googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+
+# Default SEO metadata
+metadata:
+  title:
+    default: logic.exe
+    template: '%s — logic.exe'
+  description: 'High-performance landing pages focused on clarity, conversion, and premium UI/UX.'
+  robots:
+    index: true
+    follow: true
+  openGraph:
+    site_name: logic.exe
+    images:
+      - url: '~/assets/images/og.png'
+        width: 1200
+        height: 628
+    type: website
+  twitter:
+    handle: '@logicexe'
+site:
+  name: logic.exe
+  site: 'https://hp8crn9vmd-code.github.io/landing'
+    cardType: summary_large_image
+
+i18n:
+  language: en
+  textDirection: ltr
+
+apps:
+  blog:
+    enabled: false
+analytics:
+  vendors:
+    googleAnalytics:
+      id: null # or "G-XXXXXXXXXX"
+
+ui:
+  theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
